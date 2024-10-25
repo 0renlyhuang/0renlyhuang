@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 😄 [more on my page](https://0renlyhuang.github.io)
+- 😄 [You can find more details on my page.](https://0renlyhuang.github.io)
 
 <!--
 **0renlyhuang/0renlyhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
